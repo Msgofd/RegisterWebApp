@@ -1,4 +1,4 @@
-Responsive web on appsscript
+Responsive web on Apps Script 
 insert Data in Google Sheet
 and Send Line Notify after submited form
 
